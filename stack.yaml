@@ -1,2 +1,2 @@
-resolver: nightly-2015-12-30
+resolver: lts-3.20
 system-ghc: false 
